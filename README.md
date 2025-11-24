@@ -1,5 +1,5 @@
 # 🚀 TaskFlow  
-Application moderne de **gestion de projets** et de **suivi des tâches**, conçue pour les équipes et les développeurs ayant besoin d'un outil simple, rapide et efficace. Construite avec **Next.js**, **Prisma**, **Supabase**, **TailwindCSS**, **DaisyUI** et **Clerk Auth**.
+Application moderne de **gestion de projets** et de **suivi des tâches**, conçue pour les équipes et les développeurs ayant besoin d'un outil simple, rapide et efficace. Construite avec **Next.js**, **Prisma**, **React**, **TailwindCSS**, **DaisyUI** et **Clerk Auth**.
 
 ---
 
@@ -35,7 +35,7 @@ Application moderne de **gestion de projets** et de **suivi des tâches**, conç
 ## 🛠️ Stack Technique
 
 ### **Frontend**
-- Next.js 14 / App Router  
+- Next.js 15 / App Router  
 - React  
 - TailwindCSS  
 - DaisyUI  
@@ -43,8 +43,7 @@ Application moderne de **gestion de projets** et de **suivi des tâches**, conç
 - React Quill
 
 ### **Backend**
-- Prisma ORM  
-- Supabase (PostgreSQL)  
+- Prisma ORM    
 - Next.js API Routes  
 - Clerk Authentication
 
